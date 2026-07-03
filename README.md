@@ -13,6 +13,8 @@
   <sub>Full-Stack Web Developer</sub>
 </h1>
 
+[LinkedIn](https://ma.linkedin.com/in/imad-dabagh) &nbsp;&middot;&nbsp; [Email](mailto:imaddabagh@gmail.com)
+
 <p>
   I build modern web applications with a strong emphasis on performance, scalability, and user experience.
   My goal is to create software that solves real problems while remaining clean, maintainable, and enjoyable to work on.
@@ -25,58 +27,7 @@
   />
 </p>
 
-[LinkedIn](https://ma.linkedin.com/in/imad-dabagh) &nbsp;&middot;&nbsp; [Email](mailto:imaddabagh@gmail.com)
-
 </div>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🎨 Frontend
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-
-</td>
-
-<td valign="top" width="50%">
-
-### ⚙️ Backend
-
-- Node.js
-- Express.js
-- REST APIs
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🗄️ Databases
-
-- MongoDB
-- PostgreSQL
-
-</td>
-
-<td valign="top">
-
-### 🛠️ Tools & Workflow
-
-- Git
-- GitHub
-
-</td>
-</tr>
-</table>
-
-<br />
 
 <div align="center">
 
