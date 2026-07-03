@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://screendy-cdn.fra1.cdn.digitaloceanspaces.com/platfrom-v2/_files/file_1761921946544_Developer-banner.png"
+    src="https://screendy-cdn.fra1.cdn.digitaloceanspaces.com/platfrom-v2/_files/file_1783080219402_my_cover_image_2.png"
     alt="Imad Dabagh — Full-Stack Web Developer"
     width="100%"
   />
