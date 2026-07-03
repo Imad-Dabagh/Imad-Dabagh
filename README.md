@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<p align="center">
-  <font size="7"><strong>Imad Dabagh</strong></font><br>
-  <font size="5">Full-Stack Web Developer</font>
-</p>
+<h1 align="center">
+  Imad Dabagh<br />
+  <sub>Full-Stack Web Developer</sub>
+</h1>
 
 <p>
   I build modern web applications with a strong emphasis on performance, scalability, and user experience.
