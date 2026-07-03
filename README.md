@@ -29,29 +29,51 @@
 
 </div>
 
-## Tech stack
+## Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>Frontend</h3>
-      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Backend</h3>
-      <p><code>Node.js</code> <code>Express</code> <code>REST APIs</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Databases</h3>
-      <p><code>MongoDB</code> <code>PostgreSQL</code></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Workflow</h3>
-      <p><code>Git</code> <code>GitHub</code></p>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎨 Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+</td>
+
+<td valign="top" width="50%">
+
+### ⚙️ Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🗄️ Databases
+
+- MongoDB
+- PostgreSQL
+
+</td>
+
+<td valign="top">
+
+### 🛠️ Tools & Workflow
+
+- Git
+- GitHub
+
+</td>
+</tr>
 </table>
 
 <br />
