@@ -4,12 +4,17 @@
 
 ### Full-Stack Web Developer
 
-Next.js &middot; React &middot; TypeScript &middot; Node.js &middot; Express &middot; MongoDB &middot; PostgreSQL &middot; Tailwind CSS
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,tailwind&perline=8"
+    alt="Next.js, React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, and Tailwind CSS"
+  />
+</p>
 
 I build modern full-stack applications that balance scalable architecture,<br />
 strong performance, and clear user experiences.
 
-[GitHub](https://github.com/Imad-Dabagh) &nbsp;&middot;&nbsp; [LinkedIn](https://ma.linkedin.com/in/imad-dabagh) &nbsp;&middot;&nbsp; [Email](mailto:imaddabagh@gmail.com)
+[LinkedIn](https://ma.linkedin.com/in/imad-dabagh) &nbsp;&middot;&nbsp; [Email](mailto:imaddabagh@gmail.com)
 
 </div>
 
@@ -19,20 +24,7 @@ strong performance, and clear user experiences.
 
 I'm a full-stack web developer working across the MERN ecosystem, Next.js, TypeScript, and PostgreSQL. I care about thoughtful user experiences, maintainable systems, and choosing practical solutions for real product needs.
 
-## Current focus
-
-- Building production-ready applications with **Next.js**, **React**, and **TypeScript**
-- Designing maintainable APIs and data layers with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**
-- Improving application performance, accessibility, and end-to-end user experience
-
 ## Tech stack
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,tailwind&perline=8"
-    alt="Next.js, React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, and Tailwind CSS"
-  />
-</p>
 
 | Area          | Core technologies                                                |
 | :------------ | :--------------------------------------------------------------- |
