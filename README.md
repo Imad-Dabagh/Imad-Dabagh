@@ -8,13 +8,6 @@
 
 <div align="center">
 
-<h1 align="center">
-  Imad Dabagh<br />
-  <sub>Full-Stack Web Developer</sub>
-</h1>
-
-[LinkedIn](https://ma.linkedin.com/in/imad-dabagh) &nbsp;&middot;&nbsp; [Email](mailto:imaddabagh@gmail.com)
-
 <p>
   I build modern web applications with a strong emphasis on performance, scalability, and user experience.
   My goal is to create software that solves real problems while remaining clean, maintainable, and enjoyable to work on.
@@ -33,7 +26,7 @@
 
 ### Let's build something useful.
 
-For collaborations, product work, or development opportunities,<br />
-[connect with me on LinkedIn](https://ma.linkedin.com/in/imad-dabagh) or [send me an email](mailto:imaddabagh@gmail.com).
+For collaborations, product work, or development opportunities<br />
+[LinkedIn](https://ma.linkedin.com/in/imad-dabagh) &nbsp;&middot;&nbsp; [Email](mailto:imaddabagh@gmail.com)
 
 </div>
