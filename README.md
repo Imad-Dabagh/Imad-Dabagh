@@ -27,12 +27,19 @@ I'm a full-stack web developer working across the MERN ecosystem, Next.js, TypeS
 
 ## Tech stack
 
-| Area | Core technologies |
-| :--- | :--- |
-| **Frontend** | Next.js &middot; React &middot; TypeScript &middot; Tailwind CSS |
-| **Backend** | Node.js &middot; Express &middot; REST APIs |
-| **Databases** | MongoDB &middot; PostgreSQL |
-| **Workflow** | Git &middot; GitHub |
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,tailwind&perline=8"
+    alt="Next.js, React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, and Tailwind CSS"
+  />
+</p>
+
+| Area          | Core technologies                                                |
+| :------------ | :--------------------------------------------------------------- |
+| **Frontend**  | Next.js &middot; React &middot; TypeScript &middot; Tailwind CSS |
+| **Backend**   | Node.js &middot; Express &middot; REST APIs                      |
+| **Databases** | MongoDB &middot; PostgreSQL                                      |
+| **Workflow**  | Git &middot; GitHub                                              |
 
 <br />
 
@@ -42,7 +49,5 @@ I'm a full-stack web developer working across the MERN ecosystem, Next.js, TypeS
 
 For collaborations, product work, or development opportunities,<br />
 [connect with me on LinkedIn](https://ma.linkedin.com/in/imad-dabagh) or [send me an email](mailto:imaddabagh@gmail.com).
-
-<sub>[View my work on GitHub](https://github.com/Imad-Dabagh)</sub>
 
 </div>
