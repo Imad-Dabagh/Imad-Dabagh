@@ -8,11 +8,6 @@
 
 <div align="center">
 
-<p>
-  I build modern web applications with a strong emphasis on performance, scalability, and user experience.
-  My goal is to create software that solves real problems while remaining clean, maintainable, and enjoyable to work on.
-</p>
-
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,tailwind&perline=8"
